@@ -1,3 +1,5 @@
+<h1>Playing With Wheels</h1>
+
 In this problem we will be considering a game played with four wheels. Digits ranging from 0 to 9 are printed consecutively (clockwise) on the periphery of each wheel. The topmost digits of the wheels form a four-digit integer. For example, in the following figure the wheels form the integer 8056. Each wheel has two buttons associated with it. Pressing the button marked with a left arrow rotates the wheel one digit in the clockwise direction and pressing the one marked with the right arrow rotates it by one digit in the opposite direction. Each wheel operates independently of the others (i.e. if the first goes from 9 back around to 0, the second wheel is not affected.)
 
 The game starts with an initial configuration of the wheels. Say, in the initial configuration the topmost digits form the integer S1S2S3S4. You will be given some (say, n) forbidden configurations Fi1Fi2Fi3Fi4 (1<=i<=n) and a target configuration T1T2T3T4. Your job will be to write a program that can calculate the minimum number of button presses required to transform the initial configuration to the target configuration by never passing through a forbidden one.
@@ -22,9 +24,8 @@ For each test case in the input print a line containing the minimum number of bu
 4
 
 <h3>Sample Input 1</h3>
-1234
-
-1236
+1234<br/>
+1236<br/>
 1236
 
 <h3>Sample Output 1</h3>
