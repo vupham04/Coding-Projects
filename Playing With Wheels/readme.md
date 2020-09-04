@@ -11,3 +11,20 @@ Each line of the input contains a 4 digit integer. The first line of each test c
 <h2>Output Format</h2>
 
 For each test case in the input print a line containing the minimum number of button presses required to transform the initial configuration into the target configuration. If the initial configuration is forbidden or the target configuration cannot be reached without passing through a forbidden configuration then print -1.
+
+<h3>Sample Input 0</h3>
+1335
+2244
+3456
+4567
+
+<h3>Sample Output 0</h3>
+4
+
+<h3>Sample Input 1</h3>
+1234
+1236
+1236
+
+<h3>Sample Output 1</h3>
+-1
