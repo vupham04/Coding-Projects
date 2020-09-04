@@ -13,12 +13,9 @@ Each line of the input contains a 4 digit integer. The first line of each test c
 For each test case in the input print a line containing the minimum number of button presses required to transform the initial configuration into the target configuration. If the initial configuration is forbidden or the target configuration cannot be reached without passing through a forbidden configuration then print -1.
 
 <h3>Sample Input 0</h3>
-1335
-
-2244
-
-3456
-
+1335<br/>
+2244<br/>
+3456<br/>
 4567
 
 <h3>Sample Output 0</h3>
@@ -28,7 +25,6 @@ For each test case in the input print a line containing the minimum number of bu
 1234
 
 1236
-
 1236
 
 <h3>Sample Output 1</h3>
