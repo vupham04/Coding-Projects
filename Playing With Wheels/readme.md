@@ -14,8 +14,11 @@ For each test case in the input print a line containing the minimum number of bu
 
 <h3>Sample Input 0</h3>
 1335
+
 2244
+
 3456
+
 4567
 
 <h3>Sample Output 0</h3>
@@ -23,7 +26,9 @@ For each test case in the input print a line containing the minimum number of bu
 
 <h3>Sample Input 1</h3>
 1234
+
 1236
+
 1236
 
 <h3>Sample Output 1</h3>
