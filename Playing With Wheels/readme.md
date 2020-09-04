@@ -4,10 +4,10 @@ The game starts with an initial configuration of the wheels. Say, in the initial
 
 ![Wheels](wheels.jpg)
 
-Input Format
+#Input Format
 
 Each line of the input contains a 4 digit integer. The first line of each test case specifies the initial configuration of the wheels. The next line contains the target configuration. Each of the remaining lines contains a forbidden configuration.
 
-Output Format
+#Output Format
 
 For each test case in the input print a line containing the minimum number of button presses required to transform the initial configuration into the target configuration. If the initial configuration is forbidden or the target configuration cannot be reached without passing through a forbidden configuration then print -1.
