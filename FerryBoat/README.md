@@ -18,7 +18,7 @@ The next N lines provide information about the cars to be transported across the
 
 0 <= N <= 500
 
-Output Format
+<h2>Output Format</h2>
 
 The output will consist of one line for each trip across the river. The line will begin with an integer indicating the trip number. The first trip is 1. The trip number will be followed by a single space and a colon (':') and another space. If one or more cars are being transported on the trip their license plate number will then appear in a space delimited list. If no cars are being transported then the string "empty" will appear following the colon.
 
