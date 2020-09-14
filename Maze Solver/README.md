@@ -36,8 +36,8 @@ No Solution!
 
 If the maze does have a solution the output will display the maze exactly as in the input but with spaces (' ') replaced by periods ('.') to indicate the path taken. The output will not include the first line of the input indicating the number of rows and columns in the maze.
 
-<h3>Sample Input 0<h3>
-<p/>5,5<br/>
+<h3>Sample Input 0</h3>
+5,5<br/>
 XSXXX<br/>
 X X X<br/>
 X   X<br/>
